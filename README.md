@@ -1,5 +1,3 @@
-# OpenForge Project
-
 ## Inspiration
 
 OpenForge is a hackerspace in Famagusta that serves as a community-driven space for collaboration, creativity, and learning. The structure is heavily inspired by Noisebridge in San Francisco, and OpenForge strives to expand the philosophy and values of it.
@@ -8,7 +6,9 @@ What started this project: https://www.noisebridge.net/wiki/Noisebridge
 
 ## Mission Statement
 
-To provide a space for people to work on projects, learn new skills, and share knowledge without the need for formal classes or membership fees.
+To provide a space for people to work on projects, learn new skills, and share knowledge without the need for formal classes or membership fees. 
+
+**Contribute back to the general community through services, workshops and products.**
 
 ## OpenForge’s Philosophy
 
@@ -51,7 +51,7 @@ OpenForge operates on a model that prioritizes community autonomy and a non-comm
 - Tools are available for use by anyone, fostering a hands-on learning environment.
 
 ### Workshops and Events
-- Hosts regular workshops, classes, and events on topics like coding, electronics, art, and more.
+- Hosts regular workshops, classes, and events on topics like coding, electronics, art, self sufficiency and more.
 - Events are often free or donation-based, further promoting accessibility.
 
 ### Self-Organizing
@@ -59,8 +59,8 @@ OpenForge operates on a model that prioritizes community autonomy and a non-comm
 - Members can propose and vote on new initiatives, policies, and the use of space and resources.
 
 ### Sustainability
-- Funding primarily comes from donations, fundraising events, and occasional grants.
-- The space is maintained and cleaned by the community, emphasizing collective responsibility.
+- Funding primarily comes from donations, fundraising events, and occasional grants. The space will also have the ability to offer various services to anyone interested. 
+- The space is maintained and cleaned by the community, emphasising collective responsibility.
 
 ## Culture and Philosophy
 
@@ -76,7 +76,7 @@ Meetings and discussions are open, and financial records are transparent to the 
 ## Challenges
 
 ### Sustainability
-Maintaining a free and open space relies heavily on donations and volunteer efforts, which can be challenging to sustain.
+Maintaining a free and open space relies heavily on donations and volunteer efforts, which can be challenging to sustain. **Effective branding and marketing has to be implemented to make OpenForge's services visible and attractive to partners. **
 
 ### Space Management
 Ensuring the space is organized and equipment is maintained requires continuous community effort.
